@@ -1,6 +1,6 @@
 import React from 'react';
 import ApiForm from './Components/ApiForm';
-import Footer from './Components/Footer';
+// import Footer from './Components/Footer';
 
 function App() {
   return (
